@@ -1,5 +1,5 @@
 Package: erum20
-Title: Material for Talk to be Given at eRum 2020 in Milano
+Title: How bad is my hospital? Interactive visualization of health care quality indicators
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Are",
