@@ -8,9 +8,9 @@ Authors@R: c(
          email = "biorakel@gmail.com",
          comment = c(ORCID = "0000-0002-5210-3656")),
   person(given = "Arnfinn Hykkerud",
-         family = Steindal",
-         role = c("aut", "cre")
-         email = "arnfinn.steindal@skde.no")
+         family = "Steindal",
+         role = c("aut"),
+         email = "arnfinn.steindal@skde.no"))
 Description:
   Public reporting of continuously updated health care quality is to be
   established based on data from all hospitals in Norway. Indicators of quality
