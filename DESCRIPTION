@@ -1,12 +1,16 @@
 Package: erum20
 Title: Healthcare quality on display
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "Are",
-           family = "Edvardsen",
-           role = c("aut", "cre"),
-           email = "biorakel@gmail.com",
-           comment = c(ORCID = "0000-0002-5210-3656"))
+Authors@R: c(
+  person(given = "Are",
+         family = "Edvardsen",
+         role = c("aut", "cre"),
+         email = "biorakel@gmail.com",
+         comment = c(ORCID = "0000-0002-5210-3656")),
+  person(given = "Arnfinn Hykkerud",
+         family = Steindal",
+         role = c("aut", "cre")
+         email = "arnfinn.steindal@skde.no")
 Description:
   Public reporting of continuously updated health care quality is to be
   established based on data from all hospitals in Norway. Indicators of quality
