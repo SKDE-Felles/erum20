@@ -1,5 +1,5 @@
 Package: erum20
-Title: How bad is my hospital? Interactive visualization of health care quality indicators
+Title: Healthcare quality on display
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Are",
@@ -8,11 +8,11 @@ Authors@R:
            email = "biorakel@gmail.com",
            comment = c(ORCID = "0000-0002-5210-3656"))
 Description:
-  Continously updated reporting of health care quality is to be established
-  basde on data from all hospitals in Norway. Indicators of quality will be
-  provided along a hiarcy of geographical and orgasnizational dimensions
-  defined by users through a web interface. Here, we propose a solution to this
-  task by combining technology such as R, shiny, ShinyProxy, docker, continous
+  Public reporting of continuously updated health care quality is to be
+  established based on data from all hospitals in Norway. Indicators of quality
+  will be provided along a user defined hierarchy of geographical and
+  organizational dimensions through a web interface. Here, we propose a
+  solution by combining technology such as R, Shiny, docker, continuous
   integration and delivery.
 License: GPL-3
 Encoding: UTF-8
